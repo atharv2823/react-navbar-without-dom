@@ -1,0 +1,14 @@
+.nabar-container{
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: #000;
+}
